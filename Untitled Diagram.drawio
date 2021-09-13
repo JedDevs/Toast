@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-09-12T23:59:39.925Z" agent="5.0 (Macintosh)" etag="H5pn-ZSUY0vOZ83vRKSM" version="15.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-13T08:38:14.109Z" agent="5.0 (Macintosh)" etag="gU5VKxf6281ZeiAG6ApL" version="15.1.4" type="github">
   <diagram id="tIkzukC-OCRGZSHh6Kfc" name="Page-1">
-    <mxGraphModel dx="1678" dy="965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1298" dy="742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="o_r1sFH0NP4sAo5vpepX-20" value="&lt;h1 style=&quot;font-size: 19px&quot;&gt;New Rulebook&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;/span&gt;:&lt;br&gt;&lt;/h1&gt;&lt;ol style=&quot;font-size: 17px&quot;&gt;&lt;li&gt;(Add/Remove) Store Change in offset&lt;br&gt;&lt;/li&gt;&lt;li&gt;(Add/Remove) Apply previous slot change to self&lt;/li&gt;&lt;/ol&gt;&lt;ol style=&quot;font-size: 17px&quot;&gt;&lt;li&gt;(Add) if special then offset override +&lt;/li&gt;&lt;li&gt;(Remove) if x == 2 then offset override 0&lt;/li&gt;&lt;/ol&gt;&lt;ol style=&quot;font-size: 17px&quot;&gt;&lt;li&gt;?&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+        <mxCell id="o_r1sFH0NP4sAo5vpepX-20" value="&lt;h1 style=&quot;font-size: 19px&quot;&gt;New Rulebook&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;/span&gt;:&lt;br&gt;&lt;/h1&gt;&lt;ol style=&quot;font-size: 17px&quot;&gt;&lt;li&gt;(Add/Remove) Store Change in offset&lt;br&gt;&lt;/li&gt;&lt;li&gt;(Add/Remove) Apply previous slot change to self&lt;/li&gt;&lt;/ol&gt;&lt;ol style=&quot;font-size: 17px&quot;&gt;&lt;li&gt;(Add) if special then offset override +&lt;/li&gt;&lt;li&gt;(Remove) if x == 2 then offset override 0&lt;/li&gt;&lt;/ol&gt;&lt;ol style=&quot;font-size: 17px&quot;&gt;&lt;li&gt;Apply last offset to cache if generated offset &amp;lt; 0&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="340" y="10" width="468" height="190" as="geometry" />
         </mxCell>
         <mxCell id="o_r1sFH0NP4sAo5vpepX-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=5;opacity=50;" parent="1" vertex="1">
